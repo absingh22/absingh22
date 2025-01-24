@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## <h2 align="left">Hi! <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align='left'/> My name is Abhishek Singh</h2>
 ![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=absingh22&color=red)&nbsp;
-[![GitHub AbhishekSingh](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/absingh22)&nbsp;
+[![GitHub AbhishekSingh](https://img.shields.io/github/followers/absingh22?label=follow&style=social)](https://github.com/absingh22)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 ### 👨🏻‍💻 &nbsp;About Me

@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🌱 &nbsp;I'm skilled with AI/ML/DL, Computer Vision, Remote Sensing, GIS.\
 ✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at [Gmail](absingh2202@gmail.com). I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at [Gmail](mailto:absingh2202@gmail.com). I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/absingh2202/) for more details about work experience.
 
 

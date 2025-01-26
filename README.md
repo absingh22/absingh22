@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I'm a Data Scientist.\
 💻 &nbsp;I'm currently working as an Assistant Professor at GL Bajaj Institute of Technology and Management.\
-🎓&nbsp; I graduated from National Institute of Technology, Delhi (M.Tech, Computer Science and Engineering, Batch of 2024).\
+🎓 &nbsp;I graduated from National Institute of Technology, Delhi (M.Tech, Computer Science and Engineering, Batch of 2024).\
 🌱 &nbsp;I'm skilled with AI/ML/DL, Computer Vision, Remote Sensing, GIS.\
 ✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\

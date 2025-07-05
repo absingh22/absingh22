@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 ![Pytest](https://img.shields.io/badge/-Pytest-05122A?style=flat&logo=pytest)&nbsp;
 -->
 
+<!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -92,7 +93,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30" alt="pytest logo"  />
 </div>
-
+-->
 ###
 
 

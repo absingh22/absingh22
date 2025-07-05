@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </picture>
 
 ### 🛠 &nbsp;Tech Stack
-<!--
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
 ![Pytest](https://img.shields.io/badge/-Pytest-05122A?style=flat&logo=pytest)&nbsp;
--->
+
 
 <!--
 <div align="left">
